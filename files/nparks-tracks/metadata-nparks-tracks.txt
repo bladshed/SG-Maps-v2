@@ -1,0 +1,47 @@
+# Metadata for NParks Tracks
+---
+Identifier: 'b2dcf7c7-a159-4493-b8f4-edf4f3c1b612'
+Name: 'nparks-tracks'
+Title: 'NParks Tracks'
+Description:
+  - 'This dataset provides the indicative locations of the tracks within areas managed
+    by the National Parks Board.'
+  - ''
+  - 'Also included are the Park Connector Networks. Where possible, the tracks within
+    parks and nature reserves are connected to the park connector network.'
+Topics:
+  - 'Transport'
+Keywords:
+  - 'Cycling Track'
+  - 'Footpath'
+  - 'NPARKS'
+  - 'NParks Tracks'
+  - 'National Parks Board'
+  - 'Park Connector'
+  - 'Park Connector Network'
+  - 'Park Tracks'
+  - 'Parks Centreline'
+Publisher:
+  Name: 'National Parks Board'
+  Admin 1:
+    Name: 'Margaret Cheong'
+    Department: 'NATIONAL PARKS BOARD'
+    Email: 'margaret_cheong@nparks.gov.sg'
+Sources:
+  - 'National Parks Board'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Ad-hoc'
+Last Updated: '2020-02-23T00:02:27.913497'
+Resources:
+  -
+    Identifier: '53e92a6a-02f6-43e6-98f5-920a9958c886'
+    Title: 'NParks Tracks (KML)'
+    Url: 'https://geo.data.gov.sg/nparks-tracks/2020/02/19/kml/nparks-tracks.kml'
+    Format: 'KML'
+    Last Updated: '2020-02-18T16:00:00'
+  -
+    Identifier: 'ed49c42f-6768-4c4d-93f6-0b0288b13986'
+    Title: 'NParks Tracks (GEOJSON)'
+    Url: 'https://geo.data.gov.sg/nparks-tracks/2020/02/19/geojson/nparks-tracks.geojson'
+    Format: 'GeoJSON'
+    Last Updated: '2020-02-18T16:00:00'
